@@ -3,8 +3,19 @@
 
 <b>Aim : </b>
 <ul>
-  <li>The project combines several NLP functionalities like text analysis, NER, and plots like word frequency and POS into a single space using a Webapp created using Streamlit. The app is deployed on Heroku.</li>
-  <li>The app takes input from the user, external Pdfs, and word documents to produce the results.</li>
+  <li>The project aims to analyze Whatsapp chats for both Group and Individual chats.</li>
+  <li>We first extract the .txt file of the chats as mentioned.</li>
+  <li>For Group chats, we can get features for both the Overall group and individuals.</li>
+  <li>We can extract exciting features like
+    <ul>
+      <li>Most Busy Users</li>
+      <li>Most commmon words during the chart</li>
+      <li>Emoji & Char. Analysis</li>
+      <li>Monthly Timeline of all chats</li>
+      <li>Activity Maps showing Most Busy Day and Most Busy Month</li>
+      <li>A WordCloud of all words used in the chat</li>
+    </ul>
+  </li>
 </ul>
 <b>Heroku App : https://ds13-whatsapp-chat-analyzer.herokuapp.com/</b><br>
 
