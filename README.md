@@ -16,8 +16,6 @@
     </ul>
   </li>
 </ul>
-<b>Heroku App : https://ds13-whatsapp-chat-analyzer.herokuapp.com/</b><br>
-
 <b>Getting WhatsApp Chat : </b>
 WhatsApp has a functionality that enables you to download the conversation logs of individual and group chats.<br>
 We need to get the .txt file from the chat
