@@ -24,7 +24,9 @@ We need to get the .txt file from the chat
   <li><b>Open chat | Tap more options ⋮ | More | Export chat ➞ Text file(Prefer without media option)</b></li>
 </ul>
 
-App: https://7jtomug73sfeuepvwzpfkx.streamlit.app/
+App: [https://7jtomug73sfeuepvwzpfkx.streamlit.app/](https://7jtomug73sfeuepvwzpfkx.streamlit.app/)
+
+
 Below is a Demo:
 
 https://user-images.githubusercontent.com/72561319/186019271-af0c0a44-9e59-4779-8e90-054e87fd4599.mp4
