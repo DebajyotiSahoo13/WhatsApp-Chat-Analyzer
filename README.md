@@ -24,7 +24,7 @@ We need to get the .txt file from the chat
   <li><b>Open chat | Tap more options ⋮ | More | Export chat ➞ Text file(Prefer without media option)</b></li>
 </ul>
 
-App: [[https://7jtomug73sfeuepvwzpfkx.streamlit.app/](https://7jtomug73sfeuepvwzpfkx.streamlit.app/)](https://debajyotisahoo13-whatsapp-chat-analyzer-app-vxdjdd.streamlit.app/)
+App: https://debajyotisahoo13-whatsapp-chat-analyzer-app-vxdjdd.streamlit.app/
 
 
 Below is a Demo:
